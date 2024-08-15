@@ -5,7 +5,7 @@ Hi there! I'm Svetlana Berezhnaya 🌸🌸
 2nd year student of Software Engineering in ITIS KFU
 ----------------------------
 
-Interests: backend development, learning linux, participating in hackathons
+Interests: development, learning linux, participating in hackathons
 
 * ✉️  You can contact me at [https://t.me/fewalteel](mailto:https://t.me/fewalteel)
 
