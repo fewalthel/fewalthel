@@ -7,7 +7,7 @@ Hi there! I'm Svetlana Berezhnaya 🌸🌸
 
 Interests: development, learning linux, participating in hackathons
 
-* ✉️  You can contact me at [https://t.me/ronnicon](mailto:https://t.me/ronnicon)
+* ✉️  You can contact me at [telegram](mailto:https://t.me/fewalthel)
 
 ### Skills
 
