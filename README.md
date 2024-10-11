@@ -7,7 +7,7 @@ Hi there! I'm Sveta 🌸🌸
 
 Interests: development, learning linux, participating in hackathons
 
-* ✉️  You can contact me at [telegram](mailto:https://t.me/fewalthel)
+* ✉️  You can contact me at [telegram](https://t.me/fewalthel)
 
 ### Skills
 
