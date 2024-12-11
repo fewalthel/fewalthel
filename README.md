@@ -32,4 +32,3 @@ Interests: development, learning linux, participating in hackathons
 
 ### Statistics
 <a href="https://github.com/fewalthel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fewalthel&langs_count=10&title_color=444e59&text_color=444e59&icon_color=ec4899&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<br>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fewalthel)](https://git.io/streak-stats)
